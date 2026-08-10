@@ -126,9 +126,9 @@ Smart System Operator monitors Linux servers, analyzes metrics using OpenAI mode
 **Application Server:**
 - OS: Linux (Ubuntu 20.04+, Debian 11+, CentOS 8+) or macOS
 - Python: 3.11+
-- RAM: 2GB minimum, 4GB recommended
-- CPU: 2 cores minimum
-- Storage: 5GB minimum
+- RAM: 1GB minimum, 2GB recommended
+- CPU: 1 cores minimum
+- Storage: 1GB minimum
 - Network: Outbound HTTPS (OpenAI API), MySQL, Redis, SSH to target servers
 
 **Target Servers:**
